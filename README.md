@@ -31,3 +31,7 @@ Learn how to create hyper-casual games specifically built for mobile
 + Challenge
 
 + Quiz
+
+## challenge GamePlay video
+
+https://user-images.githubusercontent.com/51156057/198154923-9e2cc61a-a3f8-482d-a359-268517aa9801.mp4
